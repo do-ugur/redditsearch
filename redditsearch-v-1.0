@@ -3,7 +3,7 @@ import tkinter as tk
 import webbrowser
 
 reddit = praw.Reddit(client_id="PgslQ3wqKoA3hmzJdlHANA",
-                     client_secret="xpX2gwiYlRCmiteIdkfkLdnHGgQ93w",
+                     client_secret="0",
                      user_agent="exqo")
 
 def search_posts():
